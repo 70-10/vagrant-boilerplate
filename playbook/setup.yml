@@ -1,0 +1,8 @@
+---
+  - name: localvm-setup
+    hosts: localvm
+    gather_facts: no
+    user: vagrant
+    tags: localvm
+    roles:
+      - ansible

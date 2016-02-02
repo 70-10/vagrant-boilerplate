@@ -1,0 +1,4 @@
+---
+-
+  playbook: setup.yml
+  inventory: hosts/localvm/group_define

@@ -1,0 +1,6 @@
+[localvm]
+172.17.1.101
+
+[localvm:vars]
+ansible_connection=local
+ansible_ssh_user=vagrant
